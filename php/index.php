@@ -20,5 +20,5 @@ $conn->close();
 
 //echo "Current directory: " . __DIR__ . "<br>";
 //echo "Files: " . implode(", ", scandir(__DIR__));
-echo '<br>I am PHP';
+echo '<br>I am PHP inside';
 ?>
